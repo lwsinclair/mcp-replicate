@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/deepfates-mcp-replicate-badge.png)](https://mseep.ai/app/deepfates-mcp-replicate)
+
 # Replicate MCP Server
 
 A [Model Context Protocol](https://github.com/mcp-sdk/mcp) server implementation for Replicate. Run Replicate models through a simple tool-based interface.
